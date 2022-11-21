@@ -12,7 +12,6 @@ config_version=4
 
 config/name="PixelPlatform"
 run/main_scene="res://Scenes/Main.tscn"
-config/icon="res://Assets/images/UI/amusementGame.png"
 
 [gui]
 
