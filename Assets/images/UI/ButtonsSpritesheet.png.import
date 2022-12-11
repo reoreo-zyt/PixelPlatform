@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/content.svg-7d551706f3baeb56331b2cf9eeb69efd.stex"
+path="res://.import/ButtonsSpritesheet.png-c91d46611690e0100398dbfee2cda243.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/images/UI/content.svg"
-dest_files=[ "res://.import/content.svg-7d551706f3baeb56331b2cf9eeb69efd.stex" ]
+source_file="res://Assets/images/UI/ButtonsSpritesheet.png"
+dest_files=[ "res://.import/ButtonsSpritesheet.png-c91d46611690e0100398dbfee2cda243.stex" ]
 
 [params]
 
